@@ -19,7 +19,6 @@ public class Clase {
         
     }
     
-    
     private void ejemploMetodo(){
         
     }
