@@ -25,6 +25,9 @@ public class Clase {
     private void algunosCambios(){
      System.out.print("Hola");
     }
+    private void otroMetodo(){
+        System.out.print("Ejemplo");
+    }
     
     
     
