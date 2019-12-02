@@ -12,16 +12,17 @@ package com.mycompany.despliegue;
 public class Clase {
     private String ejemploAtributo;
     private String ejemploAtributo2;
-    private String ejemploAtributo3;
-    private String ejemploAtributo4;
+    private String ejemploAtributo3Modificado;
+    private String ejemploAtributo4Modificado;
     
     public static void Clase(){
-        
     }
     
-    private void ejemploMetodo(){
-        
-    }
     
+
+    
+    private void ejemplo2(){
+        //Codigo
+    }
     
 }
