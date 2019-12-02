@@ -10,5 +10,18 @@ package com.mycompany.despliegue;
  * @author carlos
  */
 public class Clase {
+    private String ejemploAtributo;
+    private String ejemploAtributo2;
+    private String ejemploAtributo3;
+    private String ejemploAtributo4;
+    
+    public static void Clase(){
+        
+    }
+    
+    private void ejemploMetodo(){
+        
+    }
+    
     
 }
