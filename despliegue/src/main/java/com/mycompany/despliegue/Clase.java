@@ -22,6 +22,10 @@ public class Clase {
     private void ejemploMetodo(){
         
     }
+    private void algunosCambios(){
+        
+    }
+    
     
     
 }
