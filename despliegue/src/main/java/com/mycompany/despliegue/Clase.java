@@ -23,7 +23,7 @@ public class Clase {
         
     }
     private void algunosCambios(){
-        
+     System.out.print("Hola");
     }
     
     
