@@ -20,6 +20,7 @@ public class Clase {
     }
     
     private void ejemploMetodo(){
+        System.out.print("Cambios sobre master. Version 2.0");
         
     }
     private void algunosCambios(){
